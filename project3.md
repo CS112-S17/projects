@@ -13,7 +13,7 @@ The goal of this project is to implement a program that maintains a searchable d
 
 ### Overview
 
-For this assignment, you will build a database using the following CSV file: [cars.csv](cars.csv). You will then implement a driver class that invokes methods to retrieve required information from the database.
+For this assignment, you will build a database using the following CSV file: [cars.csv](https://raw.githubusercontent.com/CS112-S17/projects/master/cars.csv). You will then implement a driver class that invokes methods to retrieve required information from the database.
 
 Your grade will depend heavily on the *design* of your solution. Make sure that all of the requirements are followed and that the remaining components are well-designed and efficient.
 
@@ -39,7 +39,7 @@ For full credit, your solution **must** use the following design elements.
   - `findClassesByCylinders` - takes as input an `int` specifying number of cylinders and returns a `String[]` containing the vehicle classes with models that have the specified number of cylinders. For full credit, the `String[]` will have no repeated elements (each class will only appear once) and the length must be large enough to accommodate only the number of valid elements. The resulting array will be sorted and *you may use `Arrays.sort` for this purpose*.
   - `findModelsByClassAndMpg` - takes as input a target vehicle class and a minimum MPG and returns a `String[]` containing the models of all vehicles of the specified class that have *at least* the specified combined MPG. The `String[]` may have repeated elements if the same model appears twice in the dataset, but the the length must be large enough to accommodate only the number of valid elements. The resulting array will be sorted and *you may use `Arrays.sort` for this purpose*.
 11. The `main` method will be in a class called `CarDBDriver`. The suggested algorithm for this method is as follows:
-  - Build a `CarList` object from the file [cars.csv](cars.csv).
+  - Build a `CarList` object from the file [cars.csv](https://raw.githubusercontent.com/CS112-S17/projects/master/cars.csv).
   - Print "All Cars:" followed by a newline.
   - Print the result of calling `toString` on the `CarList`.
   - Print "Green Cars - Fuel Type:" followed by a newline.
