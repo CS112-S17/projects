@@ -16,7 +16,7 @@ For this assignment, you will be manipulating an image.
 
 You will need to download and use two classes that have been implemented for your: [Pixel.java](https://raw.githubusercontent.com/CS112-S17/labs/master/image_exercise/Pixel.java) and [Picture.java](https://raw.githubusercontent.com/CS112-S17/labs/master/image_exercise/Picture.java). This assignment is adapted from and these classes are implemented by Richard Wicentowski and Tia Newhall of Swarthmore.
 
-#### Pixels
+**Pixels**
 
 An image is effectively a 2D array of Pixels where each pixel is represented by three numbers from 0-255: the amount of red, amount of green, and amount of blue in the pixel.  (255, 255, 255) represents a white pixel (0, 0, 0) represents a black pixel.
 
@@ -51,7 +51,7 @@ image.store("newImage.jpg");
 
 For this project, you will implement two classes: `ImageManipulator` and `ImageDriver`. The `ImageManipulator` will contain several methods to manipulate a set of images. 
 
-####Photobomb Removal
+**Photobomb Removal**
 
 The first method will remove a photobomber from a set of images. Consider the example below:
 
@@ -106,7 +106,7 @@ Finally, store the result to the output file.
 
 You may create additional methods that implement parts of this functionality. In my solution, I created a method that loaded all of the pictures from the directory and returned an array of `Picture` objects.
 
-####Zooming
+**Zooming**
 
 The method `zoomMiddle` will create a new image of the *same* size that is zoomed in to the middle of the original image. If the original image is 1,000 by 1,000, the new image will be 1,000 by 1,000 but will have an enlarged version of the image from pixel (250,250) to pixel (750,750).
 
@@ -130,7 +130,7 @@ The method header will look as follows:
 
 `inputfile` is the name of the file containing the original image and `outputfile` is the name of the file where the zoomed image will be saved.
 
-####`ImageDriver`
+**`ImageDriver`**
 
 The driver class will accept a *directory* as input at the command line. The directory will contain multiple jpg image files. Following is an example of how your program will be run:
 
