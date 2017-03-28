@@ -1764,25 +1764,6 @@ Vehicle Classes with 6-Cylinder Cars:
 	station wagon
 	van
 Small SUVs with MPG > 22:
-	CADILLAC XT5
-	JEEP Cherokee Trailhawk
-	JEEP Cherokee Trailhawk
-	JEEP Compass
-	JEEP Compass
-	JEEP Compass
-	JEEP Compass
-	JEEP Compass
-	JEEP Compass
-	JEEP Patriot
-	JEEP Patriot
-	JEEP Patriot
-	JEEP Patriot
-	JEEP Patriot
-	JEEP Patriot
-	SUBARU Forester
-	SUBARU Forester
-	SUBARU Outback
-	SUBARU Outback
 	ACURA MDX
 	ACURA MDX
 	ACURA MDX
@@ -1812,6 +1793,7 @@ Small SUVs with MPG > 22:
 	BUICK Envision
 	BUICK Envision
 	CADILLAC XT5
+	CADILLAC XT5
 	CHEVROLET Equinox
 	CHEVROLET Equinox
 	CHEVROLET Equinox
@@ -1825,10 +1807,18 @@ Small SUVs with MPG > 22:
 	FORD Escape
 	FORD Escape
 	FORD Escape
+	FORD Escape
+	FORD Escape
+	FORD Escape
+	FORD Escape
 	GMC Terrain
 	GMC Terrain
 	GMC Terrain
 	GMC Terrain
+	HYUNDAI Santa Fe Sport
+	HYUNDAI Santa Fe Sport
+	HYUNDAI Santa Fe Sport
+	HYUNDAI Santa Fe Sport
 	HYUNDAI Santa Fe Sport
 	HYUNDAI Santa Fe Sport
 	HYUNDAI Santa Fe Sport
@@ -1855,6 +1845,16 @@ Small SUVs with MPG > 22:
 	JEEP Cherokee
 	JEEP Cherokee
 	JEEP Cherokee
+	JEEP Cherokee
+	JEEP Cherokee
+	JEEP Cherokee Trailhawk
+	JEEP Cherokee Trailhawk
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
+	JEEP Compass
 	JEEP Compass
 	JEEP Compass
 	JEEP Compass
@@ -1867,19 +1867,85 @@ Small SUVs with MPG > 22:
 	JEEP Patriot
 	JEEP Patriot
 	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	JEEP Patriot
+	KIA Sorento
+	KIA Sorento
+	KIA Sorento
+	KIA Sorento
 	KIA Sorento
 	KIA Sorento
 	KIA Sorento
 	KIA Sorento
 	KIA Sportage
 	KIA Sportage
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage
+	KIA Sportage FE
+	KIA Sportage FE
+	KIA Sportage FE
+	KIA Sportage FE
+	KIA Sportage FE
+	KIA Sportage FE
+	KIA Sportage FE
+	KIA Sportage FE
+	LAND ROVER Discovery Sport
+	LAND ROVER Discovery Sport
+	LAND ROVER Range Rover Evoque
+	LAND ROVER Range Rover Evoque
+	LAND ROVER Range Rover Evoque Cabriolet
+	LAND ROVER Range Rover Evoque Cabriolet
+	LEXUS RX 350
+	LEXUS RX 350
+	LEXUS RX 350
+	LEXUS RX 350
+	LINCOLN MKC
+	LINCOLN MKC
+	LINCOLN MKC
+	LINCOLN MKC
+	MERCEDES-BENZ GLA250 4Matic
+	MERCEDES-BENZ GLA250 4Matic
+	MERCEDES-BENZ GLC 300
+	MERCEDES-BENZ GLC 300
+	MERCEDES-BENZ GLC 300 4Matic
+	MERCEDES-BENZ GLC 300 4Matic
+	NISSAN Pathfinder
+	NISSAN Pathfinder
+	NISSAN Pathfinder
+	NISSAN Pathfinder
 	PORSCHE Macan
+	SUBARU Crosstrek
+	SUBARU Crosstrek
+	SUBARU Crosstrek
+	SUBARU Crosstrek
+	SUBARU Forester
+	SUBARU Forester
+	SUBARU Forester
+	SUBARU Forester
+	SUBARU Forester
+	SUBARU Forester
+	SUBARU Outback
+	SUBARU Outback
+	SUBARU Outback
+	SUBARU Outback
 	SUBARU Outback
 	SUBARU Outback
 	TOYOTA RAV4
 	TOYOTA RAV4
 	TOYOTA RAV4
 	TOYOTA RAV4
+	TOYOTA RAV4 Hybrid
+	TOYOTA RAV4 Hybrid
 	TOYOTA RAV4 LE/XLE
 	TOYOTA RAV4 LE/XLE
 	TOYOTA RAV4 Limited
@@ -1892,81 +1958,19 @@ Small SUVs with MPG > 22:
 	VOLVO XC 60
 	VOLVO XC 60
 	VOLVO XC 60
-	FORD Escape
-	FORD Escape
-	FORD Escape
-	FORD Escape
-	HYUNDAI Santa Fe Sport
-	HYUNDAI Santa Fe Sport
-	HYUNDAI Santa Fe Sport
-	HYUNDAI Santa Fe Sport
-	KIA Sorento
-	KIA Sorento
-	KIA Sorento
-	KIA Sorento
-	KIA Sportage
-	KIA Sportage
-	KIA Sportage
-	KIA Sportage
-	KIA Sportage FE
-	KIA Sportage FE
-	KIA Sportage FE
-	KIA Sportage FE
-	LEXUS RX 350
-	LEXUS RX 350
-	LEXUS RX 350
-	LEXUS RX 350
-	LINCOLN MKC
-	LINCOLN MKC
-	LINCOLN MKC
-	LINCOLN MKC
-	MERCEDES-BENZ GLA250 4Matic
-	MERCEDES-BENZ GLA250 4Matic
-	MERCEDES-BENZ GLC 300
-	MERCEDES-BENZ GLC 300
-	MERCEDES-BENZ GLC 300 4Matic
-	MERCEDES-BENZ GLC 300 4Matic
-	NISSAN Pathfinder
-	NISSAN Pathfinder
-	NISSAN Pathfinder
-	NISSAN Pathfinder
-	SUBARU Crosstrek
-	SUBARU Crosstrek
-	SUBARU Forester
-	SUBARU Forester
-	SUBARU Outback
-	KIA Sportage
-	KIA Sportage
-	KIA Sportage
-	KIA Sportage
-	KIA Sportage FE
-	KIA Sportage FE
-	KIA Sportage FE
-	KIA Sportage FE
-	LAND ROVER Discovery Sport
-	LAND ROVER Range Rover Evoque
-	LAND ROVER Range Rover Evoque Cabriolet
-	TOYOTA RAV4 Hybrid
-	TOYOTA RAV4 Hybrid
-	JEEP Cherokee
-	JEEP Cherokee
-	LAND ROVER Discovery Sport
-	LAND ROVER Range Rover Evoque
-	LAND ROVER Range Rover Evoque Cabriolet
-	SUBARU Crosstrek
-	SUBARU Crosstrek
-	SUBARU Forester
-	SUBARU Forester
-	SUBARU Outback
 Small Cars with MPG > 35:
-	JAGUAR XE
-	JAGUAR XE
+	BMW i3 REx
+	BMW i3 REx
 	CHEVROLET Volt
 	CHEVROLET Volt
+	CHEVROLET Volt
+	CHEVROLET Volt
+	JAGUAR XE
+	JAGUAR XE
+	LEXUS CT 200h
+	LEXUS CT 200h
 	MAZDA 2
 	MAZDA 2
-	TOYOTA Yaris iA
-	TOYOTA Yaris iA
 	MITSUBISHI Mirage
 	MITSUBISHI Mirage
 	MITSUBISHI Mirage
@@ -1977,9 +1981,5 @@ Small Cars with MPG > 35:
 	MITSUBISHI Mirage G4
 	SMART ForTwo Convertible
 	SMART ForTwo Convertible
-	BMW i3 REx
-	CHEVROLET Volt
-	CHEVROLET Volt
-	LEXUS CT 200h
-	LEXUS CT 200h
-	BMW i3 REx
+	TOYOTA Yaris iA
+	TOYOTA Yaris iA
